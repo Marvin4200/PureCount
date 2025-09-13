@@ -143,9 +143,8 @@ To exercise these rights:
 
 For privacy-related questions or requests:
 
-- **Support Server:** [Discord Support Server Link]
-- **GitHub Repository:** [GitHub Repository Link]
-- **Email:** [Support Email]
+- **Support Server:** [[Discord Support Server Link]](https://discord.gg/CfMapWJaCj)
+- **GitHub Repository:** [[GitHub Repository Link](https://github.com/Marvin4200/PureCount)]
 - **Response Time:** We aim to respond within 72 hours
 
 ## 12. Data Protection Officer
@@ -181,8 +180,9 @@ If you're not satisfied with our privacy practices:
 ---
 
 **For the most current version of this Privacy Policy, please visit:**  
-`https://github.com/[YourUsername]/CountingNo1/blob/main/PRIVACY_POLICY.md`
+`https://github.com/Marvin4200/PureCount/blob/main/PRIVACY_POLICY.md`
 
 ---
+
 
 *© 2025 CountingNo1 Discord Bot. All rights reserved.*

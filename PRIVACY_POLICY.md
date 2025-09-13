@@ -1,4 +1,4 @@
-# Privacy Policy - CountingNo1 Discord Bot
+# Privacy Policy - PureCount Discord Bot
 
 **Effective Date:** September 13, 2025  
 **Last Updated:** September 13, 2025
@@ -7,12 +7,12 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how CountingNo1 Discord Bot ("we", "our", "the Bot") collects, uses, stores, and protects information when you use our Discord bot service. By using CountingNo1, you agree to the collection and use of information in accordance with this policy.
+This Privacy Policy explains how PureCount Discord Bot ("we", "our", "the Bot") collects, uses, stores, and protects information when you use our Discord bot service. By using PureCount, you agree to the collection and use of information in accordance with this policy.
 
 ## 2. Information We Collect
 
 ### 2.1 Automatically Collected Data
-When you use CountingNo1, we automatically collect:
+When you use PureCount, we automatically collect:
 
 - **Discord User ID** - Your unique Discord identifier
 - **Username** - Your Discord username and display name
@@ -108,7 +108,7 @@ To exercise these rights:
 
 ## 7. Children's Privacy
 
-- CountingNo1 is intended for users aged 13 and older
+- PureCount is intended for users aged 13 and older
 - We comply with Discord's age requirements
 - We do not knowingly collect data from children under 13
 - If we discover such data, we will delete it immediately
@@ -185,4 +185,5 @@ If you're not satisfied with our privacy practices:
 ---
 
 
-*© 2025 CountingNo1 Discord Bot. All rights reserved.*
+*© 2025 PureCount Discord Bot. All rights reserved.*
+

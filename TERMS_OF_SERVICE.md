@@ -116,9 +116,9 @@ We may update these Terms at any time. Continued use of the Bot after changes co
 
 For questions, support, or concerns regarding these Terms:
 
-- **Support Server:** [Discord Support Server Link]
-- **GitHub Repository:** [GitHub Repository Link]  
-- **Email:** [Support Email]
+- **Support Server:** [[Discord Support Server Link]](https://discord.gg/CfMapWJaCj)
+- **GitHub Repository:** [[GitHub Repository Link](https://github.com/Marvin4200/PureCount)]
+- **Response Time:** We aim to respond within 72 hours
 
 ## 11. Governing Law
 
@@ -143,5 +143,6 @@ This Bot may use open source components. Respective licenses and attributions ca
 **For the most current version of these Terms, please visit:** `https://github.com/[YourUsername]/CountingNo1/blob/main/TERMS_OF_SERVICE.md`
 
 ---
+
 
 *© 2025 CountingNo1 Discord Bot. All rights reserved.*

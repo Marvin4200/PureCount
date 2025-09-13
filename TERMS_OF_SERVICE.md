@@ -1,4 +1,4 @@
-# Terms of Service - CountingNo1 Discord Bot
+# Terms of Service - PureCount Discord Bot
 
 **Effective Date:** September 13, 2025  
 **Last Updated:** September 13, 2025
@@ -7,11 +7,11 @@
 
 ## 1. Acceptance of Terms
 
-By inviting, using, or interacting with the CountingNo1 Discord Bot ("the Bot", "CountingNo1"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use the Bot.
+By inviting, using, or interacting with the PureCount Discord Bot ("the Bot", "PureCount"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must not use the Bot.
 
 ## 2. Description of Service
 
-CountingNo1 is a Discord bot designed to provide counting game functionality for Discord servers, including but not limited to:
+PureCount is a Discord bot designed to provide counting game functionality for Discord servers, including but not limited to:
 - Number counting games
 - User statistics and leaderboards  
 - Save system for game restoration
@@ -78,7 +78,7 @@ We reserve the right to:
 ## 6. Intellectual Property
 
 ### 6.1 Bot Ownership
-The CountingNo1 Bot, its code, features, and related materials are owned by the Bot developers and protected by intellectual property laws.
+The PureCount Bot, its code, features, and related materials are owned by the Bot developers and protected by intellectual property laws.
 
 ### 6.2 User Content
 You retain ownership of any content you create through Bot interactions, but grant us permission to use such content for Bot functionality.
@@ -138,11 +138,12 @@ This Bot may use open source components. Respective licenses and attributions ca
 
 ---
 
-**By using CountingNo1, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
+**By using PureCount, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.**
 
-**For the most current version of these Terms, please visit:** `https://github.com/[YourUsername]/CountingNo1/blob/main/TERMS_OF_SERVICE.md`
+**For the most current version of these Terms, please visit:** `https://github.com/[YourUsername]/PureCount/blob/main/TERMS_OF_SERVICE.md`
 
 ---
 
 
-*© 2025 CountingNo1 Discord Bot. All rights reserved.*
+*© 2025 PureCount Discord Bot. All rights reserved.*
+
